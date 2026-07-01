@@ -149,7 +149,7 @@ BSc (Hons) Information Technology
 Specialization in Computer Systems & Network Engineering
 
 ### **Isuru Udeshitha**
-BSc in Physical Science
+BSc in Physical Science - 
 Statistics & Computer Science
 
 ---
